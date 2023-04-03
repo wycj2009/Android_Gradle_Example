@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Android_Gradle_Example"
-include ':app'
+include(":app")
